@@ -7,10 +7,10 @@ Os links abaixo são a base dos nossos projetos.
 
 Temas desenvolvidos:
 
-1. <a href="https://mestrehq5.github.io/Moral_Project/ecologia.html"> Ecologia </a>
-2. <a href="https://mestrehq5.github.io/Moral_Project/adolescencia.html"> Adolescência </a>
-3. <a href="https://mestrehq5.github.io/Moral_Project/projetos_vida.html"> Projetos de Vida </a>
+1. <a href="https://mestrehq5.github.io/Moral_Project/Ecologia/ecologia.html"> Ecologia </a>
+2. <a href="https://mestrehq5.github.io/Moral_Project/Adolescência/adolescencia.html"> Adolescência </a>
+3. <a href="https://mestrehq5.github.io/Moral_Project/Projetos_Vida/projetos_vida.html"> Projetos de Vida </a>
 
 Enjoy :P
 
-<img src="Imagem01.jpg" alt="Imagem sobre a disciplina de Moral" height="400" width="600">
+<img src="Imagem01.jpg" alt="Imagem sobre a disciplina de Moral" height="200" width="300">
