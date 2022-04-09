@@ -13,4 +13,4 @@ Temas desenvolvidos:
 
 Enjoy :P
 
-<img src="Imagem01.jpg" alt="Imagem sobre a disciplina de Moral">
+<img src="Imagem01.jpg" alt="Imagem sobre a disciplina de Moral" height="400" width="600">
