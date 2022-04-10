@@ -5,6 +5,7 @@
   box-sizing: border-box;
   font-family: 'Poppins',sans-serif;
 }
+
 ::selection{
   color: #000;
   background: #fff;
@@ -93,5 +94,7 @@ nav .menu{
     margin: 3vw;
     padding: 1vw;
     background-color: white;
-    color: black
+    color: black;
+    font-family: "Poppins", sans-serif;
+    border-radius: 1vh;
 }
