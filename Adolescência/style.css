@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(137, 241, 137);
+    background-color: rgb(241, 92, 92);
 }
 
 main {
@@ -16,7 +16,8 @@ h1, h3, h4 {
 }
 
 p {
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-indent: 30px
 }
 
 .center {
@@ -28,5 +29,5 @@ p {
   }
 
 img {
-    border-radius: 50%;
+    border-radius: 20%;
 }
