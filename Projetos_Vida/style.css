@@ -31,3 +31,7 @@ p {
 img {
     border-radius: 30%;
 }
+
+button{
+    border-radius: 5px;
+}
